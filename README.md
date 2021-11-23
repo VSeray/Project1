@@ -1,9 +1,10 @@
 # Project1
 Hello Microverse
 
-In this project, you will set up a "Hello world" repository. No complex coding is required for this exercise. The goal here is to master all of the tools and best practices I learned . All about gitflow , linters.
+This project is simple that doesn't require complex coding skills. The goal is to practice Gitflow and HTML/CSS linters and finish it without any errors.
 
-set up a new repository and prepare it for development using best practices.
+Now set up a new repository and prepare it for development using best practices.
+
 Built With
 
     HTML
@@ -22,7 +23,7 @@ Authors
 
 👤 Author
 
-    GitHub: @VSeray
+    GitHub: https://github.com/VSeray
     Twitter: @SerayVana
     LinkedIn: LinkedIn
 
