@@ -23,7 +23,7 @@ Authors
 
 👤 Author
 
-    GitHub: GitHub: [github](https://github.com/VSeray)
+    GitHub: GitHub: (https://github.com/VSeray)
     Twitter: 
     LinkedIn: 
     
