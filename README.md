@@ -23,7 +23,7 @@ Authors
 
 👤 Author
 
-    GitHub: <a href="https://github.com/clintonjosephs">@clintonjosephs</a>
+    GitHub: GitHub: [github](https://github.com/VSeray)
     Twitter: 
     LinkedIn: 
     
