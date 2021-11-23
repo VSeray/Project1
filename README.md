@@ -23,7 +23,7 @@ Authors
 
 👤 Author
 
-    GitHub:[github](https://github.com/VSeray)
+    GitHub: [github](https://github.com/VSeray)
     Twitter: [twitter](https://twitter.com/home)
     LinkedIn: [Linkdin](https://www.linkedin.com/in/vana-seraydarian-936687191/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BNyso4dw6Tz6UBL%2Fqkjvtvw%3D%3D)
 
